@@ -1,5 +1,5 @@
 [shoptech_landing_page.html](https://github.com/user-attachments/files/27697333/shoptech_landing_page.html)
-# Khoa
+# ShopTech
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: var(--font-sans); color: var(--color-text-primary); }
